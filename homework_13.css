@@ -1,0 +1,40 @@
+.TEAM{
+    color: #333;
+font-family: Montserrat;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+font-variant: all-small-caps;
+text-align: center;
+}
+.tor{
+    margin-right: 30px;
+    text-align: center;
+}
+.rork{
+    display: flex;
+    justify-content: center;
+}
+.map{
+    color: #333;
+text-align: center;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+font-variant: all-small-caps;
+}
+.mal{
+    color: #B6B6B6;
+text-align: center;
+font-family: Roboto;
+font-size: 15px;
+font-style: italic;
+font-weight: 300;
+line-height: normal;
+}
+ul, ol{
+    list-style: none;
+}
